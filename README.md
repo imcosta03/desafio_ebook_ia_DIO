@@ -5,6 +5,8 @@
     src="./img/capa_livro.jpg"
     width="150"  
 />
+    <br>
+    <a href="arquivo/ebook_cafe_caro_codigo_lento.pdf">Leia-me</a>
 </p>
 
 Desafio do bootcamp da CAIXA - IA Generativa com Microsoft Copilot oferecido pela [DIO](https://dio.me). Tem com objetivo criar um ebook com inteligência Artificial 
